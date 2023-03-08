@@ -1,0 +1,165 @@
+body{
+    background: rgb(0,36,36);
+background: radial-gradient(circle, rgba(0,36,36,1) 0%, rgba(21,233,255,0.876715652081145) 40%, rgba(255,255,255,1) 100%);
+}
+.lbadya{
+    
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 100px;
+    position: fixed;
+    top: 0;
+    background: rgb(0,36,36);
+background: radial-gradient(circle, rgba(0,36,36,1) 0%, rgba(0,138,152,0.876715652081145) 68%, rgba(255,255,255,1) 100%);
+}
+.lbadya ul li{
+    display: inline;
+    padding-right: 20px;
+    
+    
+    
+  
+}
+a{
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+}
+a:hover{
+     color: aliceblue;
+}
+
+.logo{
+    padding-left: 40px;
+    padding-top: 10px;
+}
+.titre1{
+    width: 10%;
+    height: 60px;
+    border: 1px black solid;
+    margin-left: 40px;
+    margin-top: 100px;
+    padding-bottom: 20px;
+    border-radius: 20px;
+}
+.titre11{
+    text-align: center;
+    
+}
+.lbadya1{
+    width: 98%;
+    height: 600px;
+    
+    margin-top: 60px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 20px;
+}
+.para1{
+    width: 46%;
+    height: 300px;
+    border: 1px solid black;
+    border-radius: 20px;
+    margin-top: 70px;
+    position: sticky;
+    box-shadow: 10px 10px rgb(0, 0, 0);
+    padding-top: 30px;
+   
+    margin-left: 20px;
+    overflow-x: hidden;
+    overflow-y: auto;
+   
+    
+}
+p{
+    text-align: center;
+}
+
+.vid{
+   
+    width: 40%;
+    height: 300px;
+    margin-top: 70px;
+  
+  
+   padding-left: 20px;
+   padding-top: 2px;
+}
+.titre2{
+    width: 18%;
+    height: 80px;
+    border: 1px black solid;
+    margin-left: 40px;
+    margin-top: 10px;
+   
+    border-radius: 20px;
+}
+.titre22{
+    text-align: center;
+    
+}
+.tani{
+    border: 1px solid black;
+    width: 30%;
+    height: 400px;
+    margin: auto;
+    background: rgb(0,36,36);
+background: radial-gradient(circle, rgba(0,36,36,1) 0%, rgba(0,138,152,0.876715652081145) 40%, rgba(255,255,255,1) 100%);
+border-radius: 40px;
+
+}
+.tani form{
+   margin-top: 90px;
+   margin-left: 90px;
+   
+  
+
+}
+    .tani input{
+        display: block;
+        text-align: center;
+        line-height: 10px;
+    
+    }
+.sum{
+    width: 100%;
+    background-color: aqua;
+    height: 40px;
+}
+.sum:hover{
+  background-color: rgba(205, 205, 255, 0.17);
+}
+.tani textarea:hover{
+    background-color: rgba(255, 255, 255, 0.182);
+}
+.tani input:hover{
+    background-color: rgba(255, 255, 255, 0.118);
+}
+.zou{
+    border: 2px solid black;
+    margin:auto;
+    display: flex;
+    justify-content: space-between;
+    box-shadow: 10px 50px rgb(128, 219, 255);
+    margin-top: 10px;
+ }
+ .tou{
+     padding-left: 20px;
+     padding-top: 25px;
+ }
+ .you{
+     padding-top: 10px;
+     padding-left: 30px;
+     color: rgb(0, 0, 0);
+ }
+ .dou{
+     
+  padding-left: 30px;
+ padding-top: 40px;
+  
+  color: rgb(0, 0, 0);
+ 
+ }
+
+   
